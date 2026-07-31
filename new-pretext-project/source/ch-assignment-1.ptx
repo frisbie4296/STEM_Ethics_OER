@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-module-1" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Module 1: Choosing Your STEM Professional</title>
+
+  <introduction>
+    <p>This section will guide you through selecting a STEM professional for your work to focus on throughout this project.</p>
+  </introduction>
+
+  <section xml:id="sec-module-1-intro">
+    <title>Introduction</title>
+    <p>This section is about framing the choice of STEM professional - should be someone at least adjacent to your major or area of interest</p>
+
+  </section>
+
+  <section xml:id="sec-module-1-resources">
+    <title>Resources</title>
+    <subsection xml:id="subsec-module-1-resources-1">
+      <title>STEM Professionals</title>
+      <p>
+  <ul>
+    <li>
+      <title>1. Actuarial Science (by way of Insurance Companies)</title>
+      <p>
+        <ul>
+          <li><p>Allianz</p></li>
+          <li><p>Munich RE</p></li>
+          <li><p>Kurt Schmitt</p></li>
+        </ul>
+      </p>
+    </li>
+
+    <li>
+      <title>2. Biology, Pharmacology, and Health</title>
+      <p>
+        <ul>
+          <li><p>IG Farben</p></li>
+          <li><p>Joseph Mengele</p></li>
+          <li><p>Karl Brandt</p></li>
+          <li><p>Ernst Wentzler</p></li>
+          <li><p>Irmfried Eberl</p></li>
+          <li><p>Emily Kraeplin</p></li>
+          <li><p>Joachim Mrugowsky</p></li>
+          <li><p>Waldemar Hoven</p></li>
+          <li><p>Carl Schneider</p></li>
+          <li><p>Julius Hallervorden</p></li>
+          <li><p>Helmut Vetter</p></li>
+          <li><p>Bruno Weber</p></li>
+          <li><p>Victor Capesius</p></li>
+        </ul>
+      </p>
+    </li>
+
+    <li>
+      <title>3. Chemistry</title>
+      <p>
+        <ul>
+          <li><p>I.G. Farben</p></li>
+          <li><p>Dehesch (subsidiary of I.G. Farben)</p></li>
+          <li><p>Tesch (subsidiary of I.G. Farben)</p></li>
+          <li><p>Bruno Tesch</p></li>
+          <li><p>Karl Weinbacher</p></li>
+          <li><p>August Becker</p></li>
+          <li><p>Albert Widmann</p></li>
+        </ul>
+      </p>
+    </li>
+
+    <li>
+      <title>4. Data/Computer Science/Statistics (note: some of these professionals roles were more indirect in establishing eugenics as a scientific justification for racism, antisemitism, and the Holocaust)</title>
+      <p>
+        <ul>
+          <li><p>IBM</p></li>
+          <li><p>Francis Galton</p></li>
+          <li><p>Karl Pearson</p></li>
+          <li><p>Ronald Fischer</p></li>
+          <li><p>Charles Davenport (also a biologist)</p></li>
+        </ul>
+      </p>
+    </li>
+
+    <li>
+      <title>5. Engineering</title>
+      <p>
+        <ul>
+          <li><p>IG Farben</p></li>
+          <li><p>IBM</p></li>
+          <li><p>Topf and Sons</p></li>
+          <li><p>Hams Kammler</p></li>
+          <li><p>Kurt Prüfer</p></li>
+          <li><p>Fritz Sander</p></li>
+          <li><p>Karl Schultze</p></li>
+          <li><p>Karl Bischoff</p></li>
+        </ul>
+      </p>
+    </li>
+  </ul>
+</p>
+    </subsection>
+  </section>
+</chapter>

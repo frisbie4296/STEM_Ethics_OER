@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-chapter-title" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Introduction</title>
+
+  <introduction>
+    <p> Welcome to our project! In this work, you will find all of the assignments and resources for our program. 
+      This is intended to be your jumping off point for all aspects of the project and thus will include links to other content as well as directly hosted content. 
+      We would like to thank the Michigan State University Provost's office "AI-Ready Spartans" grants challenge for their generous funding of this pilot project. 
+      We would also like to thank the Zekelman Holocaust Center, Ferris State University and Institution TBD for their collaboration. </p>
+  </introduction>
+
+  <section xml:id="sec-chapter-title-navigation">
+    <title>How to Navigate This Document</title>
+    <p> </p>
+</section>
+
+<section xml:id="sec-chapter-title-learning-outcomes">
+  <title>Learning Outcomes</title>
+  <p>In this project, you will research the contributions of STEM professionals to the Holocaust. These professionals may be individuals or they may be organizations. At the end of this project, you will prepare and present a poster that:
+
+* Briefly tells the story of your selected professional and how they contributed to the Holocaust;
+* Includes descriptions of the science or other professional knowledge that enabled your selected professional to contribute to the Holocaust;
+* Identifies which provisions, if any, of modern professional ethical guidelines were violated by your selected professional;
+* Reflects on what your professional’s story tells us about what it means to be an ethical scientist; and
+* Is written appropriately for a general audience.
+
+The specific learning outcomes for this project are:
+
+1. Describe how a STEM professional or organization contributed to the Holocaust.
+2. Integrate domain knowledge, mathematical/data science content, and ethics within the context of the Holocaust.
+3. Articulate what it means to be an ethical STEM professional.
+4. Reflect on how ethics will inform future STEM professional practice.
+5. Design effective communication about ethical STEM practice for a general audience.
+
+This project will involve a trip to the Zekelman Holocaust Center in Farmington Hills. Your trip and food will be paid for.
+
+Please be sure to specifically focus on your selected professional’s contribution to the Holocaust, not to the German war effort. In other words, look for how your professional’s knowledge and skills helped enable the systematic killing of 6 million European Jews along with millions of other marginalized individuals.
+
+We will occasionally invite you to complete surveys and participate in interviews in order for us to examine how well this project achieved these learning outcomes.
+
+  </p>
+</section>
+
+</chapter>
