@@ -2,7 +2,12 @@
 
 <pretext xml:lang="en-US" xmlns:xi="http://www.w3.org/2001/XInclude">
   <!-- we first include a file which contains the docinfo element: -->
-  <xi:include href="./docinfo.ptx" />
+  <!-- after -->
+  <docinfo xml:lang="en-US">
+    <macros> \newcommand{\N}{\mathbb N} \newcommand{\Z}{\mathbb Z} \newcommand{\Q}{\mathbb Q} \newcommand{\R}{\mathbb R} </macros>
+    <latex-image-preamble> \usepackage{tikz, pgfplots} \usetikzlibrary{positioning,matrix,arrows} \usetikzlibrary{shapes,decorations,shadows,fadings,patterns} \usetikzlibrary{decorations.markings} </latex-image-preamble>
+
+  </docinfo>
 
   <book xml:id="stem-ethics">
     <title>Ethical Foundations of AI Through Historical Context</title>

@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<!--<?xml version="1.0" encoding="UTF-8"?>
 
 <!-- The docinfo block is the analogue to the latex preamble -->
 <!-- This is where you can define macros and other book-wide -->
 <!-- settings. -->
-<docinfo xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en-US">
+<docinfo xmlns:xi="http://www.w3.org/2001/XInclude">
 
 
 
@@ -29,4 +29,4 @@
   <!-- <cross-references text="type-global" /> -->
 
 
-</docinfo>
+</docinfo> -->
