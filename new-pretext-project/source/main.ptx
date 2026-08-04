@@ -21,6 +21,7 @@
     <xi:include href="./ch-module-1.ptx" />
     <xi:include href="./ch-module-holocaust-museum-visit.ptx" />
     <xi:include href="./ch-assignment-3.ptx" />
+    <xi:include href="./ch-module-reflections.ptx" />
 
     <!-- Include backmatter -->
     <xi:include href="./backmatter.ptx" />
