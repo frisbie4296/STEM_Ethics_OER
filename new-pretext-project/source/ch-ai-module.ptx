@@ -20,9 +20,27 @@
 
   <section xml:id="sec-ai-module-history">
     <title>Historical Context for Artificial Intelligence</title>
-    <p>While </p>
+    <p>In the time since 2022, generative AI (genAI) has infiltrated many aspects of our lives, including coursework, social media algorithms, content generation, and much more. 
+    Despite the recency of genAI, the history of AI dates back much further. Below, you will find two articles, one that discusses how the development of modern computing was accelerated by World War II, and one that describes the timeline of AI development from its conception in the 1920s to today. </p>
+    <p> Read both articles and answer the reflection questions below.</p>
     <p><url href="https://medium.com/@Micheal-Lanham/when-war-created-the-digital-age-the-untold-story-of-wwiis-computer-pioneers-9571f1e11ae8" visual="https://medium.com/@Micheal-Lanham/when-war-created-the-digital-age-the-untold-story-of-wwiis-computer-pioneers-9571f1e11ae8">When War Created the Digital Age</url></p>
-
+    <p><url href="https://www.tableau.com/data-insights/ai/history" visual="https://www.tableau.com/data-insights/ai/history">What is the history of artifical intelligence</url></p>
+  
+    <p>Discussion Prompts</p>
+      <p>
+        <ol>
+          <li><p>What were your most important takeaways from "When War Created the Digital Age"?</p></li>
+          <li><p>What were your most important takeaways from "What is the history of artificial intelligence"?</p></li>
+          <li><p>Thinking back to both articles, how was your discipline (or the discipline of your STEM professional) connected to the history of AI/Generative AI? </p></li>
+        </ol>
+      </p>
+  </section>
+  <section xml:id="sec-ai-module-genAI">
+    <title>GenAI and Historical Research</title>
+    <p>With some historical context on the development of AI/GenAI, we will now move to a more hands on exploration. In this section, we will ask you to use a genAI tool of your choice. 
+    If you are ethically opposed to using genAI tools, you should follow the instructions, but use your search algorithm of choice (e.g. Google with -ai enabled, DuckDuckGo, Brave) </p>
+    <p>Note: The contents of this section are inspired by the paper <url href="https://www.researchgate.net/publication/405015772_The_enduring_meaning_of_Holocaust_survivor_testimony_in_education_AI_and_the_emerging_post-witness_era" visual="https://www.researchgate.net/publication/405015772_The_enduring_meaning_of_Holocaust_survivor_testimony_in_education_AI_and_the_emerging_post-witness_era">The enduring meaning of Holocaust survivor testimony in education: AI and the emerging post-witness era</url></p>
+    <p>First, we will have you investigate what happens when you prompt a genAI tool to teach you about the Holocaust. Below are a list of prompts to get you started. Choose a genAI tool (e.g. Gemini, Claude, ChatGPT). Beginning with the prompts below, </p>
   </section>
 
 </chapter>
