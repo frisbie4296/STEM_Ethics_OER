@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:lang="en-US" xml:id="ch-ai-module" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Module 1: History of Artificial Intelligence (AI) and Contexting Generative AI and Historical Research</title>
+
+  <introduction>
+    <p> In this module, you will gain some historical context for the development of Artificial Intelligence (AI) and its relationship to World War II and the Holocaust.
+         You will also explore the role of Generative Artificial Intelligence (genAI) in historical research to motivate how you interact with it with respect to your work on this project.
+    </p>
+    <title>Learning Objectives</title>
+    <p>
+        <ul>
+            <li><p>(in this module) Learners will articulate the role of World War II in early Artificial Intelligence development. </p></li>
+            <li><p>(in this module) Learners will explore the role of Generative Artificial Intelligence (genAI) in historical research. </p></li>
+            <li><p>(upcoming) Learners will explore the ethical guidelines that apply to their discipline (and/or the discipline of their STEM professional) in the context of genAI use in that field</p></li>
+            <li><p>(upcoming) Learners will articulate their positionality with respect to AI and genAI using the San Markkula Five Ethical Frameworks. </p></li>
+          </ul>
+    </p>
+  </introduction>
+
+  <section xml:id="sec-ai-module-history">
+    <title>Historical Context for Artificial Intelligence</title>
+    <p>While </p>
+    <p><url href="https://medium.com/@Micheal-Lanham/when-war-created-the-digital-age-the-untold-story-of-wwiis-computer-pioneers-9571f1e11ae8" visual="https://medium.com/@Micheal-Lanham/when-war-created-the-digital-age-the-untold-story-of-wwiis-computer-pioneers-9571f1e11ae8">When War Created the Digital Age</url></p>
+
+  </section>
+
+</chapter>
