@@ -7,7 +7,7 @@
     <p> In this module, you will gain some historical context for the development of Artificial Intelligence (AI) and its relationship to World War II and the Holocaust.
          You will also explore the role of Generative Artificial Intelligence (genAI) in historical research to motivate how you interact with it with respect to your work on this project.
     </p>
-    <title>Learning Objectives</title>
+    <p>Learning Objectives</p>
     <p>
         <ul>
             <li><p>(in this module) Learners will articulate the role of World War II in early Artificial Intelligence development. </p></li>
@@ -41,6 +41,24 @@
     If you are ethically opposed to using genAI tools, you should follow the instructions, but use your search algorithm of choice (e.g. Google with -ai enabled, DuckDuckGo, Brave) </p>
     <p>Note: The contents of this section are inspired by the paper <url href="https://www.researchgate.net/publication/405015772_The_enduring_meaning_of_Holocaust_survivor_testimony_in_education_AI_and_the_emerging_post-witness_era" visual="https://www.researchgate.net/publication/405015772_The_enduring_meaning_of_Holocaust_survivor_testimony_in_education_AI_and_the_emerging_post-witness_era">The enduring meaning of Holocaust survivor testimony in education: AI and the emerging post-witness era</url></p>
     <p>First, we will have you investigate what happens when you prompt a genAI tool to teach you about the Holocaust. Below are a list of prompts to get you started. Choose a genAI tool (e.g. Gemini, Claude, ChatGPT). Beginning with the prompts below, </p>
+    <p>GenAI Prompts</p>
+      <p>
+        <ol>
+          <li><p>How did the Holocaust happen?</p></li>
+          <li><p>What people were the primary contributors to the Holocaust?</p></li>
+          <li><p>Why were so many people that contributed to the Holocaust not prosecuted?</p></li>
+          <li><p>What sources does [insert genAI tool name] use for this information?</p></li>
+        </ol>
+      </p>  
+    <p>Discussion Prompts</p>
+      <p>
+        <ol>
+          <li><p>Look at the chat logs (or search results) for your prompts. How many sources are cited? Are they primary or secondary sources? How trustworthy are these sources? How do you decide?</p></li>
+          <li><p>What happens if you ask follow-up prompts asking for more details?</p></li>
+          <li><p>What happens if you ask prompts or follow-ups looking for details on individuals who contributed to the Holocaust?</p></li>
+          <li><p>Reflect on what you learned across this module. In what ways does this inform how you might do research on the Holocaust in general or your chosen STEM professional?</p></li>
+        </ol>
+      </p>
   </section>
 
 </chapter>
